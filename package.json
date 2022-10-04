@@ -1,0 +1,14 @@
+{
+	"name": "xshooter",
+	"scripts": {
+		"watch": "esbuild --bundle src/game.js --outfile=www/main.js --watch",
+		"build": "esbuild --bundle src/game.js --outfile=www/main.js",
+		"dev": "esbuild --bundle src/game.js --outfile=www/main.js --servedir=www"
+	},
+	"dependencies": {
+		"kaboom": "^2000.2.9"
+	},
+	"devDependencies": {
+		"esbuild": "^0.15.10"
+	}
+}
