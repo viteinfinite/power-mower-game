@@ -2,10 +2,14 @@
 
 A very unserious game about a lawnmower who works in IT.
 
+## [👾 **Play Now!** 👾](https://powermower.netlify.app)
+
 ## Details
 
 - Based on the [Kaboom](https://github.com/replit/kaboom) JS game engine.
+- Works best under Google Chrome
 - Feel free to add new enemies!
+- Sorry, no tests 🙈
 
 ## Misc
 
